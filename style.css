@@ -40,14 +40,14 @@ th {
     padding: 10px
 }
 
+tr, th, td{
+    border: 1px solid black;
+    padding: 10px;
 
+}
 
 /* Text Adjustments */
 
-th:first-of-type {
-    font-weight: normal; 
-    text-align: left;
-}
 
 
 .center {
